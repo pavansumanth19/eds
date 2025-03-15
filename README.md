@@ -1,9 +1,6 @@
 # Your Project's Title...
 Your project's description...
 
-## Environments
-- Preview: https://main--eds-training--eds-kunal.hlx.page/
-- Live: https://main--eds-training--eds-kunal.hlx.live/
 
 ## Installation
 
